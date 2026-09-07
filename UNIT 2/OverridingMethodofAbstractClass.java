@@ -1,5 +1,3 @@
-### Java Program: Overriding Method of Abstract Class
-
 
 abstract class Animal
 {
