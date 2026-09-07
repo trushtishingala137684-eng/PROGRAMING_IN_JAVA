@@ -1,5 +1,3 @@
-### Java Program: Method Overriding
-
 
 class Animal
 {
@@ -12,7 +10,7 @@ class Animal
 
 class Dog extends Animal
 {
-    // Overriding parent class method
+    
     void sound()
     {
         System.out.println("Dog barks");
