@@ -1,8 +1,8 @@
-### Java Program: Demonstration of Encapsulation
+
 
 class Student
 {
-    // Private data members
+   
     private int rollNo;
     private String name;
 
